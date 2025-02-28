@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="poker positions.svg"
    inkscape:export-filename="poker positions.png"
    inkscape:export-xdpi="116.44202"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.0823004"
-     inkscape:cx="260.04894"
-     inkscape:cy="369.30311"
+     inkscape:zoom="2.5234366"
+     inkscape:cx="293.44902"
+     inkscape:cy="368.74317"
      inkscape:window-width="1916"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -74,32 +74,36 @@
      style="display:inline">
     <path
        style="fill:#e3dbde;fill-opacity:1;stroke:none;stroke-width:0.0705556;-inkscape-stroke:none;stop-color:#000000"
-       d="m 108.09809,82.429733 c 0.93999,1.296368 2.28747,2.466906 3.13593,3.919725 3.18562,4.932222 3.43447,11.265471 2.13462,16.855482 -0.84446,3.52491 -3.0742,6.51663 -5.68236,8.95581 0.59393,0.54025 2.1445,0.0639 3.08806,0.22473 7.39475,0 14.78951,0 22.18426,0 0.30779,-1.86812 0.0447,-3.97269 0.13227,-5.93203 0,-7.982448 0,-15.964898 0,-23.947348 -1.86811,-0.30779 -3.97268,-0.04473 -5.93202,-0.132278 -6.34882,0.03732 -12.73478,-0.07469 -19.06076,0.05591 z"
+       d="m 108.09809,82.429733 c 0.93999,1.296368 2.28747,2.466906 3.13593,3.919725 3.18562,4.932222 3.43447,11.265471 2.13462,16.855482 -0.84446,3.52491 -3.0742,6.51663 -5.68236,8.95581 0.59393,0.54025 2.1445,0.0639 3.08806,0.22473 l 22.48738,7.3e-4 c 0,0 -0.25842,-3.97342 -0.17085,-5.93276 V 82.506102 c -1.86811,-0.30779 -3.97268,-0.04473 -5.93202,-0.132278 -6.34882,0.03732 -12.73478,-0.07469 -19.06076,0.05591 z"
        id="path28526"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
-       inkscape:export-ydpi="77.628014" />
+       inkscape:export-ydpi="77.628014"
+       sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:#ff7878;fill-opacity:1;stroke:none;stroke-width:0.0705556;-inkscape-stroke:none;stop-color:#000000"
-       d="m 107.19956,112.51702 c -3.4167,2.51147 -7.651183,3.82477 -11.891014,3.6428 -7.280659,0.12521 -14.562804,0.0598 -21.844145,0.077 -0.30779,1.86812 -0.04473,3.97268 -0.132276,5.93203 0,2.61924 0,5.23848 0,7.85772 1.868114,0.3078 3.972681,0.0447 5.932024,0.13228 17.89815,0 35.796301,0 53.694451,0 0.30779,-1.86811 0.0447,-3.97268 0.13227,-5.93203 0,-3.8665 0,-7.73299 0,-11.59949 -1.86811,-0.30779 -3.97268,-0.0447 -5.93202,-0.13228 -6.652,0.0146 -13.31268,-0.0293 -19.95929,0.0219 z"
+       d="m 107.19956,112.51702 c -3.4167,2.51147 -7.651183,3.82477 -11.891014,3.6428 -7.280659,0.12521 -32.873796,-0.10962 -32.873796,-0.10962 -0.13307,4.59632 0,14.0822 0,14.0822 19.970541,0.0328 70.82697,0.101 70.82697,0.101 l 0,-17.84719 c 0,0 -4.14353,0.19637 -6.10287,0.10879 -6.652,0.0146 -13.31268,-0.0293 -19.95929,0.0219 z"
        id="path28565"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
-       inkscape:export-ydpi="77.628014" />
+       inkscape:export-ydpi="77.628014"
+       sodipodi:nodetypes="ccccccccc" />
     <path
        style="fill:#f1d913;fill-opacity:1;stroke:none;stroke-width:0.0705556;-inkscape-stroke:none;stop-color:#000000"
-       d="m 27.495399,65.481032 c 0,5.550297 0,11.100597 0,16.650894 1.868117,0.307789 3.972684,0.04473 5.932027,0.132275 6.376353,-0.0149 12.761542,0.02978 19.132375,-0.02228 3.159189,-2.256221 6.870491,-4.142187 10.847488,-3.946768 11.858474,-0.105153 23.71794,-0.02856 35.576811,-0.05335 3.14094,0.73864 6.20331,1.980668 8.7252,4.022405 8.41643,0 16.83286,0 25.2493,0 0.30779,-1.868114 0.0447,-3.972682 0.13227,-5.932024 0,-3.617048 0,-7.234098 0,-10.851145 -1.86811,-0.30779 -3.97268,-0.04473 -5.93202,-0.132276 -33.177057,0 -66.354116,0 -99.531172,0 z"
+       d="m 27.495399,65.481032 0.09501,16.960758 c 0,0 16.713411,-0.155485 25.068465,-0.211743 3.159189,-2.256221 6.771421,-4.130313 10.748418,-3.934894 11.858474,-0.105153 23.71794,-0.02856 35.576811,-0.05335 3.14094,0.73864 6.20331,1.980668 8.7252,4.022405 l 25.40579,0.09813 c -0.0788,-5.626221 0.14663,-17.216433 0.14663,-17.216433 H 27.540731 Z"
        id="path25835"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
-       inkscape:export-ydpi="77.628014" />
+       inkscape:export-ydpi="77.628014"
+       sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:#c2dfee;fill-opacity:0.996078;stroke:none;stroke-width:0.0705556;-inkscape-stroke:none;stop-color:#000000"
-       d="m 27.590406,82.44179 c -0.05073,8.526819 -0.0073,17.069135 -0.02175,25.60192 0,7.32763 0,14.65527 0,21.98291 0.415457,0.25402 1.091988,0.0302 1.602494,0.10579 14.624097,0 29.248195,0 43.872292,0 0.254021,-0.41546 0.03017,-1.09199 0.105786,-1.6025 0,-4.08477 0,-8.16954 0,-12.2543 -0.415457,-0.25403 -1.091988,-0.0302 -1.602494,-0.10579 -3.377724,-0.0518 -6.778686,0.13378 -10.138233,-0.20847 -5.421296,-0.73888 -10.361287,-4.2321 -12.944646,-9.03157 -1.378149,-2.52787 -2.176746,-5.38991 -2.105192,-8.275387 0.02384,-2.401446 -0.197213,-4.838394 0.507349,-7.155977 0.77247,-3.194772 2.534346,-6.112208 4.903436,-8.383323 0.519168,-0.350819 0.751623,-0.924729 -0.11806,-0.714777 -7.992316,0 -15.98463,0 -23.976946,0 l -0.08389,0.0414 z"
+       d="m 27.590406,82.44179 c -0.05073,8.526819 -0.0073,17.069135 -0.02175,25.60192 v 21.98291 c 0.415457,0.25402 1.091988,0.0302 1.602494,0.10579 l 33.157814,0 c 0.254021,-0.41546 0.03017,-1.09199 0.105786,-1.6025 v -12.2543 c -0.55876,-0.34165 3.696439,0.16686 -1.026249,-0.31426 -5.421296,-0.73888 -10.361287,-4.2321 -12.944646,-9.03157 -1.378149,-2.52787 -2.176746,-5.38991 -2.105192,-8.275387 0.02384,-2.401446 -0.197213,-4.838394 0.507349,-7.155977 0.77247,-3.194772 2.534346,-6.112208 4.903436,-8.383323 0.519168,-0.350819 0.751623,-0.924729 -0.11806,-0.714777 H 27.674442 l -0.08389,0.0414 z"
        id="path22109"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
-       inkscape:export-ydpi="77.628014" />
+       inkscape:export-ydpi="77.628014"
+       sodipodi:nodetypes="cccccccccccccccc" />
     <g
        id="g31107"
        transform="matrix(0.94210988,0,0,0.94210988,4.1421407,5.6256443)"
@@ -178,7 +182,7 @@
        inkscape:export-ydpi="77.628014" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="M 73.277438,130.23341 V 116.0502"
+       d="M 62.43475,130.23341 V 116.0502"
        id="path30909"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
@@ -302,19 +306,19 @@
     <g
        id="g6462"
        style="display:inline"
-       transform="translate(-0.52916667)"
+       transform="translate(-2.1166667,-0.5466266)"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
        inkscape:export-ydpi="77.628014">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.22801px;line-height:1.25;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="34.261734"
+         x="31.804298"
          y="73.767311"
          id="text10666"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.22801px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           x="34.261734"
+           x="31.804298"
            y="73.767311"
            id="tspan10664">LATE</tspan></text>
       <text
@@ -387,7 +391,7 @@
     <g
        id="g2494"
        style="display:inline"
-       transform="translate(-0.52916667)"
+       transform="translate(-25.161599,-18.62102)"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
        inkscape:export-ydpi="77.628014">
@@ -409,52 +413,19 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72385px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="62.434235"
            y="124.97177"
-           id="tspan27355">MP1</tspan></text>
-    </g>
-    <g
-       id="g2516"
-       style="display:inline"
-       transform="translate(-0.52916667)"
-       inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
-       inkscape:export-xdpi="77.628014"
-       inkscape:export-ydpi="77.628014">
-      <rect
-         style="font-variation-settings:normal;display:inline;opacity:0.368211;mix-blend-mode:hard-light;vector-effect:none;fill:#ffe3e3;fill-opacity:1;stroke:#000000;stroke-width:0.253;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.012,1.012;stroke-dashoffset:1.4927;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         id="rect32822"
-         width="13.178896"
-         height="6.7208672"
-         x="74.502602"
-         y="68.793381"
-         ry="1.5374565"
-         transform="translate(-44.709509,33.054182)" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.72385px;line-height:1.25;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;opacity:0.79994645"
-         x="36.554367"
-         y="106.56353"
-         id="text32820"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72385px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="36.554367"
-           y="106.56353"
-           id="tspan32818">MP2</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72385px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="36.554367"
-           y="111.21835"
-           id="tspan32938" /></text>
+           id="tspan27355">MP</tspan></text>
     </g>
     <g
        id="g2507"
        style="display:inline"
-       transform="translate(-0.52916667)"
+       transform="translate(0.52916667,3.6411652)"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
        inkscape:export-ydpi="77.628014">
       <g
          id="g2523">
         <rect
-           style="display:inline;mix-blend-mode:hard-light;fill:#ffe3e3;fill-opacity:1;stroke:#000000;stroke-width:0.253;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.012,1.012;stroke-dashoffset:1.4927;stroke-opacity:1;font-variation-settings:normal;opacity:0.368211;vector-effect:none;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           style="font-variation-settings:normal;display:inline;opacity:0.368211;mix-blend-mode:hard-light;vector-effect:none;fill:#ffe3e3;fill-opacity:1;stroke:#000000;stroke-width:0.253;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.012, 1.012;stroke-dashoffset:1.4927;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
            id="rect28827"
            width="13.178896"
            height="6.7208672"
@@ -464,7 +435,7 @@
            transform="translate(-44.709509,18.649319)" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.72385px;line-height:1.25;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;opacity:0.79994645"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.72385px;line-height:1.25;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.799946;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="36.554367"
            y="92.158669"
            id="text28825"><tspan
@@ -472,7 +443,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72385px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
              x="36.554367"
              y="92.158669"
-             id="tspan28823">MP3</tspan></text>
+             id="tspan28823">LJ</tspan></text>
       </g>
     </g>
     <g
@@ -561,7 +532,7 @@
     </g>
     <g
        id="g27353"
-       transform="translate(20.379837,51.192245)"
+       transform="translate(10.058176,51.192245)"
        style="display:inline"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
@@ -589,7 +560,7 @@
     <g
        id="g49766"
        style="display:inline"
-       transform="translate(-2.256839)"
+       transform="translate(-1.5727891,-0.19703573)"
        inkscape:export-filename="/home/bruno/mes créations/poker/g2533.png"
        inkscape:export-xdpi="77.628014"
        inkscape:export-ydpi="77.628014">
@@ -617,9 +588,10 @@
            id="tspan13686">POSITION</tspan></text>
     </g>
     <g
-       id="g15">
+       id="g15"
+       transform="translate(-10.321661)">
       <rect
-         style="opacity:0.36821103;mix-blend-mode:hard-light;fill:#ffe3e3;fill-opacity:1;stroke:#000000;stroke-width:0.253;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.01199997,1.01199997;stroke-dashoffset:1.49269995;stroke-opacity:1"
+         style="opacity:0.368211;mix-blend-mode:hard-light;fill:#ffe3e3;fill-opacity:1;stroke:#000000;stroke-width:0.253;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.012, 1.012;stroke-dashoffset:1.4927;stroke-opacity:1"
          id="rect1209"
          width="14.074717"
          height="6.7208672"
@@ -628,7 +600,7 @@
          ry="1.5374565" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.72385px;line-height:1.25;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;opacity:0.8054337"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.72385px;line-height:1.25;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.805434;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="77.183533"
          y="124.70159"
          id="text1213"><tspan
@@ -639,7 +611,7 @@
            id="tspan1211">UTG</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.05013px;line-height:1.25;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;opacity:0.8054337"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.05013px;line-height:1.25;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.805434;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="86.055862"
          y="124.64211"
          id="text3283"><tspan
